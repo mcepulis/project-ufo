@@ -4,6 +4,7 @@
   "description": "lorem ipsum _**dolor**_ sit amet, consectet\r ## _Apie_ projektą\r _lorem_ ipsum dolor sit amet, **consectet**\r ### Apie projektą\r lorem ipsum dolor sit amet, consectet",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --host=localhost --port=4804",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
